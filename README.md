@@ -1,4 +1,4 @@
-# Melbourne-Housing-Predicting-Price
+# Melbourne Housing Predicting Price 
 
 ## Introduction
 Melbourne's real estate market is on the rise, and predicting the next big trend or finding a reasonably priced 2-bedroom unit can be challenging. That's where this project comes in! In this project, we analyze a dataset that includes various features such as Address, Type of Real estate, Suburb, Method of Selling, Rooms, Price, Real Estate Agent, Date of Sale, and distance from C.B.D. The dataset was created by Tony Pino, and it was scraped from publicly available results posted every week on Domain.com.au.
