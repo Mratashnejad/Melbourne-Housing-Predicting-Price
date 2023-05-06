@@ -32,3 +32,8 @@ What factors affect the price of a property the most?
 Can we predict the price of a property based on its features?
 ## Conclusion
 In conclusion, this project is an attempt to analyze the Melbourne housing dataset and predict the housing prices. With this analysis, we hope to gain insights into the Melbourne housing market and provide useful information for buyers, sellers, and real estate agents.
+
+
+## Template :
+ <img width="858" alt="Screenshot 2023-05-06 at 11 03 04 AM" src="https://user-images.githubusercontent.com/32798129/236608771-248f8e08-fe3d-439c-a8d8-d35b79b67fb4.png">
+
